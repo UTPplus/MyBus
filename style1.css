@@ -1,0 +1,25 @@
+body{
+	background: black;
+}
+.main_adder{
+	background-color: white;
+	width: 600px;
+	height: 300px;
+
+
+}
+.sub_adder{
+	position: absolute;
+	top: 50px;
+	right: 0px;
+	left: 100px;
+	height: 100px;
+	width: 500px;
+
+
+
+}
+input{
+	width: 200px;
+	height: 30px;
+}
